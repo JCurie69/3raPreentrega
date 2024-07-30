@@ -7,3 +7,4 @@ def restar(n1,n2):
 
 restar(int(input("ingrese el primer numero")),int(input("ingrese el segundo numero")))
 print("agrego mas cosas")
+print("agrego cosas para usar el pull")
